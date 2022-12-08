@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(249, 249, 249);
+}
+
+.btn-disabled-class {
+  background: rgb(219, 219, 219);
+  color: red;
+}
+
+/* a {
+  color: #00B7FF;
+} */
